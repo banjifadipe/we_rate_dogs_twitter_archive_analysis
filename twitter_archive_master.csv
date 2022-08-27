@@ -1,0 +1,59 @@
+tweet_id,timestamp,source,name,dog_stage,ratings,retweet_count,favorite_count,jpg_url,img_num,dog_breed,confidence
+778027034220126208,2016-09-20 00:24:34+00:00,Twitter for iPhone,Sophie,pupper,11.27,1885,7320,https://pbs.twimg.com/media/Cswbc2yWcAAVsCJ.jpg,1,Clumber,0.946718
+777885040357281792,2016-09-19 15:00:20+00:00,Twitter for iPhone,Wesley,,3.0,1893,7078,https://pbs.twimg.com/media/CsuaUH2WAAAWJh1.jpg,1,Afghan hound,0.123529
+773704687002451968,2016-09-08 02:09:06+00:00,Twitter for iPhone,Loki,,12.0,1891,7317,https://pbs.twimg.com/media/CrzATQqWAAEHq2t.jpg,2,Silky terrier,0.324251
+750056684286914561,2016-07-04 20:00:23+00:00,TweetDeck,Jameson,,11.0,1011,3444,https://pbs.twimg.com/media/Cmfx2oNW8AAGg4H.jpg,1,Saluki,0.4844279999999999
+749317047558017024,2016-07-02 19:01:20+00:00,Twitter for iPhone,Blu,floofer,12.0,2509,6076,https://pbs.twimg.com/ext_tw_video_thumb/749316899712950272/pu/img/nvZI9mkoAxt89sul.jpg,1,Wire-haired fox terrier,0.155144
+699788877217865730,2016-02-17 02:54:04+00:00,Twitter for iPhone,Nala,,12.0,557,2458,https://pbs.twimg.com/media/CbYmRHyWEAASNzm.jpg,1,Border terrier,0.35506
+694352839993344000,2016-02-02 02:53:12+00:00,Twitter for iPhone,Oliviér,,10.0,700,2244,https://pbs.twimg.com/media/CaLWOPfWkAAo2Dt.jpg,2,Australian terrier,0.407886
+689283819090870273,2016-01-19 03:10:43+00:00,Twitter for iPhone,Chipson,,9.0,1250,3624,https://pbs.twimg.com/media/CZDT-mZWsAEK9BH.jpg,1,Scotch terrier,0.267979
+683849932751646720,2016-01-04 03:18:23+00:00,Twitter for iPhone,Jiminy,,5.0,1116,2896,https://pbs.twimg.com/media/CX2F4qNUQAAR6Cm.jpg,1,Mexican hairless,0.164906
+683142553609318400,2016-01-02 04:27:31+00:00,Twitter for iPhone,Brandy,pupper,9.0,1173,3162,https://pbs.twimg.com/media/CXsChyjW8AQJ16C.jpg,1,Leonberg,0.605851
+680161097740095489,2015-12-24 23:00:17+00:00,Twitter for iPhone,Goliath,,12.0,828,2538,https://pbs.twimg.com/media/CXBq6RPWkAAaNuU.jpg,1,Bluetick,0.268681
+677301033169788928,2015-12-17 01:35:24+00:00,Twitter for iPhone,Juckson,,5.0,471,1362,https://pbs.twimg.com/media/CWZBsjPWsAAZFFl.jpg,1,Japanese spaniel,0.6611779999999999
+676582956622721024,2015-12-15 02:02:01+00:00,Twitter for iPhone,Vinnie,,8.0,312,1310,https://pbs.twimg.com/media/CWO0m8tUwAAB901.jpg,1,Boston bull,0.1963069999999999
+676146341966438401,2015-12-13 21:07:04+00:00,Twitter for iPhone,Bert,,10.0,744,2077,https://pbs.twimg.com/media/CWIngp5WEAAJOy3.jpg,1,Irish water spaniel,0.388332
+675710890956750848,2015-12-12 16:16:45+00:00,Twitter for iPhone,Lenny,,12.0,928,2046,https://pbs.twimg.com/media/CWCbd8ZWoAAtqoH.jpg,2,Standard schnauzer,0.441427
+674262580978937856,2015-12-08 16:21:41+00:00,Twitter for iPhone,Gus,pupper,9.0,498,1391,https://pbs.twimg.com/media/CVt2PawWIAEUkqW.jpg,1,Greater swiss mountain dog,0.519428
+674019345211760640,2015-12-08 00:15:09+00:00,Twitter for iPhone,Acro,,10.0,340,1208,https://pbs.twimg.com/media/CVqZBO8WUAAd931.jpg,1,Collie,0.992732
+673656262056419329,2015-12-07 00:12:23+00:00,Twitter for iPhone,Albert,pupper,10.0,265,769,https://pbs.twimg.com/media/CVlOy3pW4AQ9H1K.jpg,1,Bull mastiff,0.700625
+673213039743795200,2015-12-05 18:51:11+00:00,Twitter for iPhone,Dexter,,10.0,929,2410,https://pbs.twimg.com/media/CVe7r7QVEAAc4Bg.jpg,1,Schipperke,0.8880819999999999
+672594978741354496,2015-12-04 01:55:13+00:00,Twitter for iPhone,Scott,pupper,9.0,661,1411,https://pbs.twimg.com/media/CVWJkJXWsAInlZl.jpg,1,Great pyrenees,0.755945
+671735591348891648,2015-12-01 17:00:19+00:00,Twitter for iPhone,Oscar,,11.0,819,1534,https://pbs.twimg.com/media/CVJ79MzW4AEpTom.jpg,2,Irish wolfhound,0.0630781999999999
+671528761649688577,2015-12-01 03:18:27+00:00,Twitter for iPhone,Jax,,10.0,280,896,https://pbs.twimg.com/media/CVG_2I-WIAASKSS.jpg,1,Doberman,0.782626
+670807719151067136,2015-11-29 03:33:17+00:00,Twitter for iPhone,Andy,,11.0,546,1234,https://pbs.twimg.com/media/CU8v-rdXIAId12Z.jpg,1,Old english sheepdog,0.958035
+670764103623966721,2015-11-29 00:39:59+00:00,Twitter for iPhone,Vincent,,10.0,466,1154,https://pbs.twimg.com/media/CU8IY0pWIAA2AJ-.jpg,1,Norfolk terrier,0.17285
+670755717859713024,2015-11-29 00:06:39+00:00,Twitter for iPhone,Gin,,9.0,123,475,https://pbs.twimg.com/media/CU8AwZ_UsAA-Lbu.jpg,1,Keeshond,0.994065
+670704688707301377,2015-11-28 20:43:53+00:00,Twitter for iPhone,Danny,,6.0,405,814,https://pbs.twimg.com/media/CU7SW39WwAAL8Rw.jpg,1,Norwich terrier,0.419838
+670676092097810432,2015-11-28 18:50:15+00:00,Twitter for iPhone,Bloo,,8.0,45,267,https://pbs.twimg.com/media/CU64WOlWcAA37TV.jpg,1,Dandie dinmont,0.6761020000000001
+670442337873600512,2015-11-28 03:21:24+00:00,Twitter for iPhone,Koda,,11.0,213,690,https://pbs.twimg.com/media/CU3jwAYWwAAhdAv.jpg,1,Sussex spaniel,0.403552
+670385711116361728,2015-11-27 23:36:23+00:00,Twitter for iPhone,Larry,,8.0,234,593,https://pbs.twimg.com/media/CU2wPyWWUAAb1MJ.jpg,1,Whippet,0.178027
+670338931251150849,2015-11-27 20:30:30+00:00,Twitter for iPhone,Butters,,10.0,122,451,https://pbs.twimg.com/media/CU2FsRnVAAA3TEg.jpg,1,Cairn,0.245033
+669371483794317312,2015-11-25 04:26:12+00:00,Twitter for iPhone,Oliviér,,10.0,196,524,https://pbs.twimg.com/media/CUoVz8rU8AAfW-c.jpg,1,Brabancon griffon,0.483268
+669324657376567296,2015-11-25 01:20:08+00:00,Twitter for iPhone,Ralf,,11.0,223,525,https://pbs.twimg.com/media/CUnrN7vUcAAfGvN.jpg,1,Cardigan,0.131544
+668975677807423489,2015-11-24 02:13:25+00:00,Twitter for iPhone,Jeremy,,11.0,641,1386,https://pbs.twimg.com/media/CUit1O1WoAEBHjj.jpg,1,Basset,0.605437
+668902994700836864,2015-11-23 21:24:36+00:00,Twitter for iPhone,Lambeau,,11.0,107,338,https://pbs.twimg.com/media/CUhruUgUAAAa8FQ.jpg,1,Brittany spaniel,0.828425
+668892474547511297,2015-11-23 20:42:48+00:00,Twitter for iPhone,Ruffles,,11.0,164,422,https://pbs.twimg.com/media/CUhiJ63WEAAw2qm.jpg,1,Kelpie,0.421979
+668826086256599040,2015-11-23 16:18:59+00:00,Twitter for iPhone,Banditt,,10.0,150,467,https://pbs.twimg.com/media/CUglxbFXAAA5O0d.jpg,1,Malinois,0.640185
+668633411083464705,2015-11-23 03:33:22+00:00,Twitter for iPhone,Churlie,,10.0,1788,3024,https://pbs.twimg.com/media/CUd2ieCUcAAexyT.jpg,1,Pekinese,0.589011
+668627278264475648,2015-11-23 03:09:00+00:00,Twitter for iPhone,Timofy,,9.0,123,341,https://pbs.twimg.com/media/CUdw9thWsAA4mB9.jpg,1,French bulldog,0.965403
+668625577880875008,2015-11-23 03:02:14+00:00,Twitter for iPhone,Maks,,10.0,140,417,https://pbs.twimg.com/media/CUdvambWoAA007z.jpg,1,Groenendael,0.0544548
+668567822092664832,2015-11-22 23:12:44+00:00,Twitter for iPhone,Marvin,,11.0,62,265,https://pbs.twimg.com/media/CUc64knWoAkZt70.jpg,1,Shih-tzu,0.985649
+668537837512433665,2015-11-22 21:13:35+00:00,Twitter for iPhone,Spark,,8.0,79,265,https://pbs.twimg.com/media/CUcfnWlWsAAzlwE.jpg,1,Lakeland terrier,0.372988
+668496999348633600,2015-11-22 18:31:19+00:00,Twitter for iPhone,Jo,,8.0,146,436,https://pbs.twimg.com/media/CUb6ebKWcAAJkd0.jpg,1,Staffordshire bullterrier,0.412879
+667915453470232577,2015-11-21 04:00:28+00:00,Twitter for iPhone,Otis,,10.0,59,222,https://pbs.twimg.com/media/CUTpj-GWcAATc6A.jpg,1,Boxer,0.196655
+667902449697558528,2015-11-21 03:08:47+00:00,Twitter for iPhone,Cleopatricia,,9.0,396,905,https://pbs.twimg.com/media/CUTdvAJXIAAMS4q.jpg,1,Norwegian elkhound,0.298881
+667728196545200128,2015-11-20 15:36:22+00:00,Twitter Web Client,Olive,,11.0,162,398,https://pbs.twimg.com/media/CUQ_QahUAAAVQjn.jpg,1,Kuvasz,0.360159
+667544320556335104,2015-11-20 03:25:43+00:00,Twitter Web Client,Kial,,10.0,568,917,https://pbs.twimg.com/media/CUOYBbbWIAAXQGU.jpg,1,Pomeranian,0.412893
+667455448082227200,2015-11-19 21:32:34+00:00,Twitter Web Client,Reese,,7.0,66,203,https://pbs.twimg.com/media/CUNHMXTU8AAS3HH.jpg,1,Tibetan terrier,0.676376
+667405339315146752,2015-11-19 18:13:27+00:00,Twitter for iPhone,Biden,,7.0,234,489,https://pbs.twimg.com/media/CUMZnmhUEAEbtis.jpg,1,Saint bernard,0.381377
+667393430834667520,2015-11-19 17:26:08+00:00,Twitter for iPhone,Fwed,,8.0,60,211,https://pbs.twimg.com/media/CUMOyd3XIAAl13H.jpg,1,Papillon,0.557009
+667200525029539841,2015-11-19 04:39:35+00:00,Twitter for iPhone,Joshwa,,11.0,282,658,https://pbs.twimg.com/media/CUJfVMPXIAAgbue.jpg,1,Siberian husky,0.694904
+667171260800061440,2015-11-19 02:43:18+00:00,Twitter for iPhone,Kenneth,,10.0,97,235,https://pbs.twimg.com/media/CUJEuRIXIAAPDLt.jpg,1,Giant schnauzer,0.8412649999999999
+667152164079423490,2015-11-19 01:27:25+00:00,Twitter for iPhone,Pipsy,,12.0,18285,49720,https://pbs.twimg.com/media/CUIzWk_UwAAfUNq.jpg,1,Toy poodle,0.535411
+666996132027977728,2015-11-18 15:07:24+00:00,Twitter for iPhone,Carll,,10.0,102,258,https://pbs.twimg.com/media/CUGlb6iUwAITEbW.jpg,1,Rottweiler,0.0624899
+666817836334096384,2015-11-18 03:18:55+00:00,Twitter for iPhone,Jeph,,9.0,267,540,https://pbs.twimg.com/media/CUEDSMEWEAAuXVZ.jpg,1,Miniature schnauzer,0.496953
+666644823164719104,2015-11-17 15:51:26+00:00,Twitter for iPhone,Jimothy,,9.0,88,238,https://pbs.twimg.com/media/CUBl6IwVAAA9_zT.jpg,1,Ibizan hound,0.0443334
+666454714377183233,2015-11-17 03:16:00+00:00,Twitter for iPhone,Kreggory,,10.0,223,545,https://pbs.twimg.com/media/CT-5Bs-WUAA2JeC.jpg,1,Dalmatian,0.278954
+666447344410484738,2015-11-17 02:46:43+00:00,Twitter for iPhone,Scout,,9.0,23,107,https://pbs.twimg.com/media/CT-yU5QWwAEjLX5.jpg,1,Curly-coated retriever,0.322084
+666418789513326592,2015-11-17 00:53:15+00:00,Twitter for iPhone,Walter,,10.0,48,129,https://pbs.twimg.com/media/CT-YWb7U8AA7QnN.jpg,1,Toy terrier,0.14968
